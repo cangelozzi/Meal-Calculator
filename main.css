@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#dishes {
+  width: 120px;
+}
+
+li {
+  list-style: none;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.diners {
+  margin-top: 20px;
+}
+
